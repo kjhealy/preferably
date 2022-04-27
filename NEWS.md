@@ -1,3 +1,20 @@
+# preferably 0.4
+
+## New
+
+- Support for `{pkgdown}` 2.0, and [Bootstrap 5](https://pkgdown.r-lib.org/articles/customise.html?q=boos#getting-started)
+
+
+# preferably 0.3.2
+
+## Changes
+
+- Fixed a minor issue with the footer, https://github.com/amirmasoudabdol/preferably/issues/8#issuecomment-957228703
+
+## Known Issues
+
+- If you don't see the footer showing up, you need to specify it explicitly, see [here](https://pkgdown.r-lib.org/articles/customise.html?q=footer#footer).
+
 # preferably 0.3.1
 
 ## Changes
