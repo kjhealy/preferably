@@ -1,7 +1,7 @@
 Type: Package
 Package: preferably
 Title: A 'pkgdown' Template
-Version: 0.3.1
+Version: 0.4
 Authors@R: 
     person(given = "Amir Masoud",
            family = "Abdol",
@@ -26,4 +26,4 @@ VignetteBuilder:
     knitr
 Encoding: UTF-8
 Language: en-US
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2

@@ -29,12 +29,18 @@ navbar:
       text: "In the Wild"
       href: articles/in-the-wild.html
 
+footer:
+  structure:
+    left: developed_by
+    right: built_with
+
 template:
   package: preferably
+  bootstrap: 5
+  includes:
+    in_header: |
+      <script defer data-domain="preferably.amirmasoudabdol.name" src="https://stats.preferably.amirmasoudabdol.name/js/index.js"></script>
   params:
-    canalytics:
-      domain: preferably.amirmasoudabdol.name
-      src: https://stats.preferably.amirmasoudabdol.name/js/index.js
     github-sponsor:
       url: https://github.com/sponsors/amirmasoudabdol/
   opengraph:
